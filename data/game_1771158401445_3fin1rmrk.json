@@ -1,0 +1,115 @@
+{
+  "theme": "jungle",
+  "selectedMap": "jungle",
+  "customMapUrl": "https://img.genially.com/64233afb55129a0017751c8e/34a9e259-16a4-4da8-90ae-8c8e594f433d.jpeg",
+  "questions": [
+    {
+      "id": 1770497197654,
+      "type": "text",
+      "text": "24 + 7 =",
+      "answers": [
+        {
+          "id": 1770497197655,
+          "text": "",
+          "correct": false
+        },
+        {
+          "id": 1770497197656,
+          "text": "",
+          "correct": false
+        }
+      ],
+      "hint": "31",
+      "correctText": "31"
+    },
+    {
+      "id": 1770532877040,
+      "type": "text",
+      "text": "35 – 8 =",
+      "answers": [
+        {
+          "id": 1770532877041,
+          "text": "",
+          "correct": false
+        },
+        {
+          "id": 1770532877042,
+          "text": "",
+          "correct": false
+        }
+      ],
+      "hint": "27",
+      "correctText": "27"
+    },
+    {
+      "id": 1770532897802,
+      "type": "single",
+      "text": "46 + 9 =",
+      "answers": [
+        {
+          "id": 1770532897803,
+          "text": "55",
+          "correct": true
+        },
+        {
+          "id": 1770532897804,
+          "text": "54",
+          "correct": false
+        },
+        {
+          "id": 1770532926590,
+          "text": "37",
+          "correct": false
+        }
+      ],
+      "hint": "55"
+    },
+    {
+      "id": 1770532936532,
+      "type": "multiple",
+      "text": "60 – 15 =",
+      "answers": [
+        {
+          "id": 1770532936533,
+          "text": "45",
+          "correct": true
+        },
+        {
+          "id": 1770532936534,
+          "text": "45",
+          "correct": true
+        }
+      ],
+      "hint": "45"
+    }
+  ],
+  "mapPoints": [
+    {
+      "questionId": 1770497197654,
+      "x": 13.836772983114445,
+      "y": 44.18181818181818
+    },
+    {
+      "questionId": 1770532877040,
+      "x": 22.936210131332082,
+      "y": 92
+    },
+    {
+      "questionId": 1770532897802,
+      "x": 65.99437148217636,
+      "y": 75.27272727272727
+    },
+    {
+      "questionId": 1770532936532,
+      "x": 76.68855534709193,
+      "y": 45.45454545454545
+    }
+  ],
+  "attempts": 3,
+  "timer": 0,
+  "points": 10,
+  "hints": 3,
+  "showAnswer": true,
+  "reward": "Золотой кубок",
+  "message": "Поздравляем! Ты прошел все испытания и нашел сокровище!"
+}
